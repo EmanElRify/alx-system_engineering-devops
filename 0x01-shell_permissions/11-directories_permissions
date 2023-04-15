@@ -1,2 +1,2 @@
-#!/bin/bash
-sudo chmod  a+x $(pwd -type d)
+i!/bin/bash
+sudo chmod  a+x .
