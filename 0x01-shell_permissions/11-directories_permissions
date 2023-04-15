@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R a+x /$pwd
+sudo chmod  a+x /$pwd
