@@ -1,1 +1,1 @@
-This directory is about shell permissions cmds
+This is a readme for redirections
